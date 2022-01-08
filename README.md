@@ -4,16 +4,19 @@
 
 * E-mail : doctory10@naver.com
 
-* Tech Blog : [![Blog Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&logo=kakao&logoColor=white&link=https://jjpearl.tistory.com/)](https://jjpearl.tistory.com/)
-
 *****
+
+## :notebook_with_decorative_cover: RECORDS
+* Tech Blog : [![Blog Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&logo=kakao&logoColor=white&link=https://jjpearl.tistory.com/)](https://jjpearl.tistory.com/)
+* GitLab :  [![Blog Badge](https://img.shields.io/badge/-GitLab-gray?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/kjj970517)](https://gitlab.com/kjj970517)
 
 
 ## :computer: TECH STACK
 ![C++ Badge](https://img.shields.io/badge/-C++-purple?style=flat-square&logo=Cplusplus&logoColor=white&link=)
 ![C Badge](https://img.shields.io/badge/-C-purple?style=flat-square&logo=C&logoColor=white&link=)
 ![UE4 Badge](https://img.shields.io/badge/-UE4-blue?style=flat-square&logo=UnrealEngine&logoColor=white&link=)
-![Swift Badge](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift&logoColor=white&link=)
+![Swift Badge](https://img.shields.io/badge/-Swift-yellow?style=flat-square&logo=swift&logoColor=white&link=)
+![Git Badge](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white&link=)
 
 
 
