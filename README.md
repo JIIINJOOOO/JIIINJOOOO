@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Jinjoo 👋 / Game Client Programmer
+
+* * *
+
+* E-mail : doctory10@naver.com [![E-mail Badge](https://img.shields.io/badge/-EMAIL-lightgreen?style=flat-square&logo=naver&logoColor=white&link=<doctory10@naver.com>)](<doctory10@naver.com>)
+
+* Tech Blog : [![Blog Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&logo=kakao&logoColor=white&link=https://jjpearl.tistory.com/)](https://jjpearl.tistory.com/)
 
 <!--
 **JIIINJOOOO/JIIINJOOOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
